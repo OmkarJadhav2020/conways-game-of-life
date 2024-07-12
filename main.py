@@ -75,7 +75,7 @@ def main():
     positions = set()
     playing = False
     count = 0
-    update_freq = 10
+    update_freq = 20
     while running:
         CLOCK.tick(FPS)
 
