@@ -22,7 +22,7 @@ This project is an implementation of Conway's Game of Life using Pygame. The Gam
    pip install pygame
 2. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/conways-game-of-life.git
+    git clone https://github.com/OmkarJadhav2020/conways-game-of-life.git
     cd conways-game-of-life
 3. Run the game:
     ```bash
